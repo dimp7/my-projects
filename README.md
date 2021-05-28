@@ -1,3 +1,2 @@
 # my-projects
-
-test1
+This is a test description
